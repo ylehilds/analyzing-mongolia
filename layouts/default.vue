@@ -120,7 +120,22 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Modified PM 2.5',
           to: '/modified_gers_pm_2_5'
-       }              
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'Coal Only Modified PM 2.5',
+          to: '/coal_only_modified_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'Heater Only Modified PM 2.5',
+          to: '/heater_only_modified_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'Hybrid Modified PM 2.5',
+          to: '/hybrid_modified_gers_pm_2_5'
+       }
       ],
       miniVariant: false,
       right: true,
