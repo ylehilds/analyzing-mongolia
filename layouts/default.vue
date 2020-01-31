@@ -106,11 +106,21 @@ export default {
         //   title: 'Inspire',
         //   to: '/inspire'
         // },
-          {
+        {
           icon: 'mdi-chart-bubble',
           title: 'PM 2.5',
           to: '/pm_2_5'
-        }
+       },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Unmodified PM 2.5',
+          to: '/unmodified_gers_pm_2_5'
+       },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Modified PM 2.5',
+          to: '/modified_gers_pm_2_5'
+       }              
       ],
       miniVariant: false,
       right: true,

@@ -21,7 +21,7 @@
     >
       <!-- <v-app-bar-nav-icon></v-app-bar-nav-icon> -->
 
-      <v-toolbar-title>PM 2.5 Trend Graphs</v-toolbar-title>
+      <v-toolbar-title>Unmodified Gers PM 2.5 Daily Trend Graphs</v-toolbar-title>
 
       <v-spacer></v-spacer>
       <input type="text" v-model="search">
@@ -69,7 +69,7 @@
       //   { title: 'AR', src: 'https://raw.githubusercontent.com/ylehilds/analyzing-mongolia-air-quality/master/jupyter/AR_pm_2_5.png', flex: 50 },
       //   { title: 'AL', src: 'https://raw.githubusercontent.com/ylehilds/analyzing-mongolia-air-quality/master/jupyter/AL_pm_2_5.png', flex: 50 }
       // ],
-      sensors: ['AB','AK','AL','AR','AZ','BC','CA','CO','CT','Cache','Carbon','DE','Davis','FL','GA','HI','IA','ID','IL','IN','Juab','KS','KY','Kane','LA','MA','MB','MD','ME','MI','MN','MS','MT','NB','NC','ND','NE','NH','NJ','NL','NM','NS','NU','NV','NY','OH','OK','ON','OR','PA','PE','RI','SD','UT','VA','WA','WI','WY']
+      sensors: ['AB', 'MB', 'NL', 'NS', 'NU', 'OK', 'PA', 'RI', 'SD', 'UT', 'VA', 'WI', 'WY']
     }),
     computed: {
       cards: function () {
