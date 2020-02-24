@@ -52,7 +52,9 @@
                 <v-icon>mdi-share-variant</v-icon>
               </v-btn>
             </v-card-actions>
-                        <div>
+              <div>
+              <p>Hybrid (Coal+Heater) Modified Gers = ['AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DE', 'FL', 'IA', 'KS', 'KY', 'LA', 'MD', 'ME', 'MI', 'MN', 'MS', 'MT', 'NC', 'NH']</p>
+              <p>Stats: </p>
               <p>whiskers:  [0.0, 327.0, 0.0, 329.0, 0.0, 329.0, 0.0, 329.0, 0.0, 327.0, 0.0, 327.0, 0.0, 327.0]</p>
               <p>caps:  [0.0, 327.0, 0.0, 329.0, 0.0, 329.0, 0.0, 329.0, 0.0, 327.0, 0.0, 327.0, 0.0, 327.0]</p>
               <p>boxes:  [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]</p>
