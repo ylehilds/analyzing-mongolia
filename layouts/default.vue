@@ -135,6 +135,26 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Hybrid Modified PM 2.5',
           to: '/hybrid_modified_gers_pm_2_5'
+       },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'All Week All Sensors Boxplot PM 2.5',
+          to: '/all_week_all_sensors_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'All Week Coal Only Boxplot Gers Pm 2.5',
+          to: '/all_week_coal_only_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'All Week Hybrid Boxplot Gers Pm 2.5',
+          to: '/all_week_hybrid_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'All Week Electric Boxplot Gers Pm 2.5',
+          to: '/all_week_electric_boxplot_gers_pm_2_5'
        }
       ],
       miniVariant: false,
