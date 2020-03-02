@@ -21,7 +21,7 @@
     >
       <!-- <v-app-bar-nav-icon></v-app-bar-nav-icon> -->
 
-      <v-toolbar-title>All Week Coal Only Boxplot Gers Pm 2.5 Graph</v-toolbar-title>
+      <v-toolbar-title>All Week Coal Only Boxplot Modified Gers Pm 2.5 Graph</v-toolbar-title>
 
       <v-spacer></v-spacer>
       <!-- <input type="text" v-model="search">
