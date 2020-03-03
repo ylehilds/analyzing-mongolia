@@ -160,6 +160,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'All Week Unmodified Boxplot Gers Pm 2.5',
           to: '/all_week_unmodified_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'All PM 2.5 Weekly Aggregation Boxplot Gers Pm 2.5',
+          to: '/all_sensors_boxplot_gers_pm_2_5'
        }
       ],
       miniVariant: false,
