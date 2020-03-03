@@ -53,7 +53,7 @@
               </v-btn>
             </v-card-actions>
             <div>
-              <p><b>All Sensors Gers</b></p>
+              <p><b>All Sensors Gers</b> = ['AB', 'AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'IA', 'ID', 'IL', 'KS', 'KY', 'LA', 'MA', 'MB', 'MD', 'ME', 'MI', 'MN', 'MS', 'MT', 'NB', 'NC', 'ND', 'NE', 'NH', 'NL', 'NM', 'NS', 'NU', 'OH', 'OK', 'OR', 'PA', 'PE', 'RI', 'SD', 'UT', 'VA', 'WA', 'WI', 'WY']</p>
               <p><b>Stats:</b></p>              
               <p class='identation'><b>whiskers: </b>[0.0, 276.0, 0.0, 278.0, 0.0, 281.0, 0.0, 283.0, 0.0, 282.0, 0.0, 282.0, 0.0, 287.0]</p>
               <p class='identation'><b>caps: </b>[0.0, 276.0, 0.0, 278.0, 0.0, 281.0, 0.0, 283.0, 0.0, 282.0, 0.0, 282.0, 0.0, 287.0]</p>
