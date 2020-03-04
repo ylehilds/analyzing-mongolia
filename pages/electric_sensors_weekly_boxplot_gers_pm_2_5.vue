@@ -86,7 +86,7 @@
         let allSensors = []
         for (const sensor of this.sensors) {
           allSensors.push(
-            { title: sensor, src: 'https://raw.githubusercontent.com/ylehilds/analyzing-mongolia-air-quality/master/jupyter/all_week_electric_boxplot_gers_pm_2_5/all_week_electric_boxplot_gers_pm_2_5.png', flex: 50 }
+            { title: sensor, src: 'https://raw.githubusercontent.com/ylehilds/analyzing-mongolia-air-quality/master/jupyter/electric_sensors_weekly_boxplot_gers_pm_2_5/electric_sensors_weekly_boxplot_gers_pm_2_5.png', flex: 50 }
           )
         }
         return allSensors
