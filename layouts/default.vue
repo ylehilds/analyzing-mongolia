@@ -165,6 +165,21 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'All PM 2.5 Weekly Aggregation Boxplot Gers Pm 2.5',
           to: '/all_sensors_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'Weekly Hybrid PM 2.5 Aggregation Boxplot Gers Pm 2.5',
+          to: '/hybrid_sensors_weekly_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'Weekly Unmodified PM 2.5 Aggregation Boxplot Gers Pm 2.5',
+          to: '/unmodified_sensors_weekly_boxplot_gers_pm_2_5'
+       },
+       {
+          icon: 'mdi-chart-bubble',
+          title: 'Weekly Electric PM 2.5 Aggregation Boxplot Gers Pm 2.5',
+          to: '/electric_sensors_weekly_boxplot_gers_pm_2_5'
        }
       ],
       miniVariant: false,
